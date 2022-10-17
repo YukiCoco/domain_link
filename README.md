@@ -14,6 +14,7 @@
 zone_identifier: 
 # Global API KEY https://dash.cloudflare.com/profile/api-tokens
 api_key: 
+# CloudFlare 的登录邮箱
 account_email: 
 # 查询目标域名 DNS 的更新时间
 sleep_duration: 30
